@@ -1,0 +1,226 @@
+﻿ID,IMAGE,How scary is this image?,How likely are you to see something like this in  a dream?,What is the dominant emotion of the image?,How realistic does this image look?,How likely is this image AI-generated?,How much would you pay for this as a painting (in euros)?,"If you were asked to improve this image to make it “perfect”, how many edits would you make?",Write a short story inspired by this image without naming any objects in it.,Does anything feel visually wrong/inconsistent in this image?
+1,1,6,Neutral,Calm,1,8,2,4,Sometimes the body does not follow the mind.,"Yes: proportions/anatomy, Yes: perspective/geometry"
+2,1,3,Very unlikely,Fear,3,10,0,5,,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: perspective/geometry"
+3,1,8,Unlikely,"Sadness, Fear",2,10,8,12,The person trips and flies while shaking his arms. This is sad. ,"Yes: proportions/anatomy, Yes: texture/details, Yes: perspective/geometry"
+4,1,1,Very unlikely,Confusion,1,2,0,7,Athleticism as a way of fighting your inner demons. The eternal struggle between you and you.,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+5,1,1,Unlikely,Joy,1,7,0,7,"Falling from grace through a sunlit sky. Sadness and confusion. No more playing, time to get serious. Disform! ","Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+6,1,1,Likely,neutral,6,9,10,4,the three legged man loved to play sports on the surface of mars. ,Yes: proportions/anatomy
+7,1,2,Unlikely,Fear,1,9,1,0,,Yes: proportions/anatomy
+8,1,1,Very unlikely,Kinda funny ,1,3,€5,,A man with an extra limb decides to exercise all of his extremities He has the name manuel And he believes in polyamory Manuel isn’t just a normal guy he has pedophilic  tendencies and as much as he wants to stay away from his prefences he dabbles every now and then and to circle back he was cursed with this third leg because he acts like a freak:) ,Yes: proportions/anatomy
+9,1,1,Very unlikely,Confusion,1,3,0,5,The triple scorer doesn’t need to look.,Yes: perspective/geometry
+10,1,1,Very unlikely,No feeling at all,1,1,0,To many,Once upon a time there was a sportsman with un impossible body that tried to do a goal.,"Yes: proportions/anatomy, Yes: perspective/geometry"
+11,1,1,Very unlikely,Stupidity,2,7,0,10000,Défense blocked him but the shock was so violent that he will spend some years in the hospital for a couple of surgeries. ,Yes: proportions/anatomy
+12,1,4,Very unlikely,Anger,1,5,0,100,A footballer being angry ,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+13,1,4,Unlikely,Anxiety,1,10,0,20,Unsettling football game,"Yes: proportions/anatomy, Yes: perspective/geometry"
+14,1,1,Unlikely,,3,9,10,Three,,Yes: proportions/anatomy
+15,1,2,Very unlikely,Calm,1,10,0,10,He flew away into the sunset after courageously kicking.,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+16,1,7,Unlikely,Fear,7,6,50,3,Someone was playing a sport and fell over,Yes: proportions/anatomy
+17,1,2,Very unlikely,Joy,1,8,10,25,"This is a football player from outer space, that has joined the a team. He is extremely good and is able to take his team to victory because he has three legs. This allows him to dribble faster, run faster, and overall be better.","Yes: proportions/anatomy, Yes: texture/details, Yes: perspective/geometry"
+18,1,4,Very unlikely,Wonder ,1,6,O,I would say to start from scratch unrealistic athletes playing soccer in the sunset,Unrealistic athletes playing soccer in the sunset.,Yes: perspective/geometry
+19,1,1,Very unlikely,Confrontation ,1,5,Zero,I don’t feel the need to improve the image,2 players bumping into each other,Looks if one person has 3 legs
+20,1,5,Very unlikely,Fear,1,7,0,,,"Yes: proportions/anatomy, Yes: lighting/shadows"
+21,1,4,Unlikely,Fear,1,6,0,4, Being blown away by the flames of passion,"Yes: proportions/anatomy, Yes: perspective/geometry"
+22,1,8,Very unlikely,Disgust,1,10,0,3,Volcano fitness center,"Yes: proportions/anatomy, Yes: lighting/shadows"
+23,1,1,Very unlikely,"Anger, confusion",1,10,0,6,a footballer is trying to score a goal but misses.,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details"
+24,1,1,Unlikely,Excitement,1,9,5,3,"It was a very warm day to play football, but a player must do his job. Although it felt like running through fire, he did his best to score a goal and win the match.","Yes: proportions/anatomy, Yes: lighting/shadows, Yes: perspective/geometry"
+25,1,3,Unlikely,Calm,3,6,0,3,"Running around, playing for fun. Without any others around, yet not alone.","Yes: proportions/anatomy, Yes: texture/details"
+26,1,4,Unlikely,Disorientation,4,9,0,2,A man is about to score a goal when suddenly the whole world around him disappears and transforms into red and orange stripped glow. This event makes him loose his balance and gets a 3rd leg.,"Yes: proportions/anatomy, Yes: texture/details"
+27,1,4,Very unlikely,Anger,1,10,0,Many,,Yes: proportions/anatomy
+28,1,1,Neutral,Calm,1,5,0,99,,Yes: proportions/anatomy
+29,1,2,Unlikely,Anger,1,7,0,3,There once was an odd creature who loved spinning in flames.,Yes: proportions/anatomy
+30,1,1,Very unlikely,Sadness,1,9,0,5,"When playing soccer with my friend a sudden wind storm occurred, blowing my friend and I in almost the exact same body position to the ground. ","Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details"
+31,1,7,Neutral,Confusion,1,10,0,I would start again,"He knew his deformity would make him a star, not a circus act, but a sport's star!","Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+32,1,4,Unlikely,"Sadness, Despair",1,7,0,20,"Everyone should have goals in mind when living. People who live without tangible goals must have a hard time continuing what they are doing. And even though the feeling you get when you imagine shooting past your goal, how you can see the target you had, while you fall to the ground. The feeling of failure, of despair, washing over you. How the earth seems to swallow you whole and the atmosphere changes in an instance. That feeling must be debilitating. But contrasting this with the feeling of accomplishment you get when you complete your goals, makes setting them worth it.","Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+1,2,1,Neutral,Calm,6,6,1,1,Life is all about balance.,"Yes: proportions/anatomy, Yes: perspective/geometry"
+2,2,1,Neutral,Calm,1,9,5,0,,"No, nothing stands out"
+3,2,1,Neutral,Joy,4,2,15,2,The animal is doing dubious things. ,"Yes: texture/details, Yes: perspective/geometry"
+4,2,1,Very unlikely,Confusion,1,2,0,5,"The dead eyed animal of doom. It shows up when you least expect it. When it does, you know it’s over.","Yes: texture/details, Yes: perspective/geometry"
+5,2,1,Neutral,"Joy, Calm",1,5,0,3,"Calmly staring into the abyss. Nothing around, perched up high. No one understands me miauw. ","Yes: lighting/shadows, Yes: texture/details"
+6,2,1,Neutral,feeling of cuteness,4,4,10,0,,"No, nothing stands out, it is unclear what the cat is sitting on"
+7,2,1,Unlikely,Calm,6,4,100,0,,"No, nothing stands out"
+8,2,1,Neutral,"Not much, confusion",4,8,0€,5,"The cat sits on top, no he never flops, cuz one thing about his pops is that he likes to cook rock. And by that I mean crystal meth ","Yes: proportions/anatomy, Yes: texture/details, Yes: perspective/geometry"
+9,2,1,Very unlikely,Calm,3,3,0,0,Animal acting like a bird.,"No, nothing stands out"
+10,2,1,Very unlikely,Confusion ,1,9,0,5,Once upon a time there was an animal that was waiting for his unrealistic world to become realistic,"Yes: texture/details, Yes: perspective/geometry"
+11,2,1,Very unlikely,Calm,5,5,0,1000,Animals could be a good alternative for robots if we manage to control them. ,"No, nothing stands out"
+12,2,2,Very unlikely,Calm,2,4,5,20,A calming relaxing experience,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+13,2,1,Unlikely,Calm,5,5,5,2,,"No, nothing stands out"
+14,2,1,Very unlikely,Tenderness,8,6,5,Three,,Yes: perspective/geometry
+15,2,2,Neutral,"Calm, Anger",8,10,3,4,"Although it was daytime, it was nicer to be inside. In the blue and red glow, it calmly sat while staring into the distance with soulless eyes.","Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+16,2,4,Unlikely,Calm,6,5,50,1,A animal is doing a balancing game and doing really well,Yes: texture/details
+17,2,1,Very unlikely,Calm,6,6,20,10,This animal is the driver of a train. He works at night when no one is around to observe him and see how special this situation is.,Yes: perspective/geometry
+18,2,1,Very unlikely,Surprise,1,6,0,Start from scratch ,Animal in a lab,Yes: texture/details
+19,2,1,Very unlikely,Calm,1,4,0,Indefinitely ,Bullshit,It doesn’t make sense 
+20,2,1,Very unlikely,"Joy, Calm",2,7,10,,,"Yes: lighting/shadows, Yes: perspective/geometry"
+21,2,2,Unlikely,Calm,1,3,0,1,Wnjoying the view from high above.,Yes: perspective/geometry
+22,2,1,Very unlikely,,5,6,0,3,,"Yes: lighting/shadows, Yes: texture/details"
+23,2,1,Very unlikely,Calm,2,10,0,4,an animal is sitting precariously at a great height,"Yes: proportions/anatomy, Yes: texture/details, Yes: perspective/geometry"
+24,2,1,Likely,Joy,1,4,3,1,"Freddy loves to go outside, at the end of the afternoon, to watch the neighbourhood. It is the time of the day when the streets are busy with people going back home, and Freddy finds it very entertaining to observe the movement.","Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+25,2,2,Very unlikely,Calm,8,4,0,1,"Perching at the highest point it could find, it looked down upon the lands. From its perspective, it was the ruler of all.",Yes: texture/details
+26,2,1,Unlikely,Fondness,1,5,0,0,And it decided to start the procedure which would grand him immortality ,Yes the lever orientation with regats to its rail
+27,2,1,Very unlikely,Calm,3,2,0,A few,,Yes: texture/details
+28,2,1,Unlikely,no emotion / neutral,2,5,1,88,,"No, nothing stands out"
+29,2,2,Very unlikely,Neutral,2,6,0,1,Animal loves to perch on machinery and look outside,"Yes: proportions/anatomy, Yes: perspective/geometry"
+30,2,2,Unlikely,Fear,3,6,-10,9,"Once upon a time there was a man who wanted to marry the king’s daughter, so he went to the castle.
+Once he arrived, there was a gate with three guards.
+
+He comes to the 1st guard:
+“Halt, who goes there?”
+“Red-blue knight on the white horse!”
+“Who?”
+“Red-blue knight on the white horse!”
+“Oooh, Red-blue knight on the white horse!”
+“Yeees, Red-blue knight on the white horse!”
+“What brings you here?”
+“I want to marry the king’s daughter.”
+“OK, you may pass!”
+
+He comes to the 2nd guard:
+“Halt, who goes there?”
+“Red-blue knight on the white horse!”
+“Who?”
+“Red-blue knight on the white horse!”
+“Oooh, Red-blue knight on the white horse!”
+“Yeees, Red-blue knight on the white horse!”
+“What brings you here?”
+“I want to marry the king’s daughter.”
+“OK, you may pass.”
+
+He comes to the 3rd guard:
+“Halt, who goes there?”
+“Red-blue knight on the white horse!”
+“Who?”
+“Red-blue knight on the white horse!”
+“Oooh, Red-blue knight on the white horse!”
+“Yeees, Red-blue knight on the white horse!”
+“What brings you here?”
+“I have come to marry the king’s daughter.”
+“OK, go ahead.”
+
+So the Red-blue knight on the white horse comes to the king:
+“First of all, who are you?”
+“Red-blue knight on the white horse!”
+“Who?”
+“Red-blue knight on the white horse!”
+“Oooh, Red-blue knight on the white horse!”
+“Yeees, Red-blue knight on the white horse!”
+“What do you want here?”
+“I wish to marry your daughter!”
+“OK, I agree — on the condition that you first defeat the three-headed dragon. For each head there are three guards. Good luck.”
+
+Said and done. The Red-blue knight on the white horse sets off for the dragon. Once there, he comes to the 1st guard of the 1st head:
+
+“Halt, who goes there?”
+“Red-blue knight on the white horse!”
+“Who?”
+“Red-blue knight on the white horse!”
+“Oooh, Red-blue knight on the white horse!”
+“Yeees, Red-blue knight on the white horse!”
+“What brings you here?”
+“I want to defeat the dragon!”
+“Well then, I wish you the best of luck.”
+
+He comes to the 2nd guard of the 1st head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+He comes to the 3rd guard of the 1st head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+Chop, chop, head off.
+
+Then he comes to the 1st guard of the 2nd head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+He comes to the 2nd guard of the 2nd head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+He comes to the 3rd guard of the 2nd head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+Chop, chop, head off — one left to go! :P
+
+He comes to the 1st guard of the 3rd head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+He comes to the 2nd guard of the 3rd head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+He comes to the 3rd guard of the 3rd head:
+(same exchange)
+“Well then, I wish you the best of luck.”
+
+Chop, chop, head off — dragon dead.
+
+Now he has to enter the castle again through the gate with the three guards:
+
+“Halt, who goes there?”
+“Red-blue knight on the white horse!”
+“Who?”
+“Red-blue knight on the white horse!”
+“Oooh, Red-blue knight on the white horse!”
+“Yeees, Red-blue knight on the white horse!”
+“What brings you here?”
+“I want to speak to the king!”
+“OK, go ahead.”
+
+He comes to the 2nd guard:
+(same exchange)
+“OK, go ahead.”
+
+He comes to the 3rd guard:
+(same exchange)
+“OK, go ahead.”
+
+Then he comes to the king, who is rather forgetful:
+
+“First of all, who were you again?”
+“Red-blue knight on the white horse!”
+“Who?”
+“Red-blue knight on the white horse!”
+“Oooh, Red-blue knight on the white horse?”
+“Yeees, Red-blue knight on the white horse!”
+“What were you here for again?”
+“To marry your daughter! And I have already defeated the dragon.”
+“Oh. Then unfortunately I have bad news for you…”
+“?”
+“I don’t have a daughter…”","Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+31,2,1,Likely,"Calm, Sadness",8,9,10,"I'd give the cat a bit more character, and change the composition a bit","She waited everyday for her owner to come back. The trains always came, but her owner didn't.","Yes: lighting/shadows, Yes: texture/details"
+32,2,1,Unlikely,"Joy, Calm",4,6,10,5,"The old man had been a carpenter all his life. After practising woodworking since he was a mere teenager, he was finally able to retire. The past few years had been hard on him, as he had essentially been alone since his wife died. But the one thing she left him with, had been keeping him company in his workshop for the last few months. Every day when he started his machines, and he prepared his tools, he could reminisce on the life he had lived with her.","Yes: texture/details, Yes: perspective/geometry"
+1,3,4,Likely,"Calm, Sadness",5,6,5,0,,"Yes: lighting/shadows, Yes: texture/details"
+2,3,2,Unlikely,Sadness,1,10,0,0,,"No, nothing stands out"
+3,3,6,Likely,Fear,4,7,18,1,"The war has been going on for ages but no one knows how it happened. There has been a standstill, a ceasefire for as long as we remember yet our defenses remain fortified. While nature has healed, our trauma has not. ","No, nothing stands out"
+4,3,1,Very unlikely,Sadness,1,2,0,0,"Imagine being on top of the world, literally on top of a mountain. The view is stunning. Unfortunately, all I’m doing is looking for the enemy. Rumor has it they’re on their way to crush us. ","No, nothing stands out"
+5,3,2,Very unlikely,"Sadness, Fear, Anger",1,6,0,5,"Loneliness. Waiting. Staring at the horizon. No one around, but staying ever vigilant while keeping watch. The weight of the kingdom on your shoulders as the first line of defence. ","Yes: texture/details, Yes: perspective/geometry"
+6,3,1,Likely,adventurous,1,10,0,100,,"Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+7,3,1,Unlikely,Calm,7,6,150,5,,Yes: proportions/anatomy
+8,3,1,Neutral,Confusion ,7,6,10€,3,He looks into the distance while he presses his fingers deep inside his bullet hole. It is a tight  fit but he is determined to pull it out.cuz mother compares to the euphoria of him fingering his bullet hole. And that’s the origin story of my life xoxo,Yes: texture/details
+9,3,1,Very unlikely,Nothing,6,3,0,0,The firewatch protects all.,Yes: proportions/anatomy
+10,3,1,Very unlikely,No émotion,3,7,0,O,"In a Steampunk world, a man and his wife where waiting for their lost son","No, nothing stands out"
+11,3,2,Unlikely,Fear,3,8,0,100,Big brother is watching you. ,"No, nothing stands out"
+12,3,3,Neutral,Calm,6,7,15,10,A calming lookout in summer,Yes: proportions/anatomy
+13,3,2,Neutral,Confusion,1,8,2,,,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+14,3,1,Very unlikely,Calm,1,10,5,3,,Yes: texture/details
+15,3,1,Unlikely,Calm,8,8,6,1,"He looked out, watching the landscape from up high in his self-built wooden creation. It was beautiful and green. Having a blue sky, it was a good day to be a navigator.","No, nothing stands out"
+16,3,2,Neutral,Calm,8,7,100,0,Someone enjoying a nice view from a makeshift hut,"No, nothing stands out"
+17,3,4,Unlikely,Calm,5,5,25,10,"These are two people that watch out for forest fires. They made a special home with all types of gadgets, so that they can live comfortably and react appropriately.",Yes: texture/details
+18,3,2,Very unlikely,Wonder ,1,6,0,"Pitch it, start from scratch",Someone lost at the rudder in the mountains,Yes: perspective/geometry
+19,3,1,Likely,Joy,1,5,0,0,,Yes: perspective/geometry
+20,3,3,Very unlikely,,1,7,0,,,Yes: texture/details
+21,3,3,Unlikely,Sadness,3,7,10,0,Searching for someone in the horizon.,"No, nothing stands out"
+22,3,1,Very unlikely,Calm,6,5,0,1,Looking at infinity,"No, nothing stands out"
+23,3,1,Very unlikely,Calm,4,9,0,3,an adventurer looks out over a beautiful landscape that he will traverse,"Yes: proportions/anatomy, Yes: texture/details"
+24,3,1,Very unlikely,Calm,1,6,1,5,"Bob and Jenny are space travellers landed on earth. They are camping by a valley, to observe the movement of clouds and occurrence of rain.","Yes: proportions/anatomy, Yes: lighting/shadows, Yes: texture/details"
+25,3,3,Very unlikely,"Calm, Curiosity",9,9,0,0,"Looking over the lands far below, yet feeling awfully calm. Barely any variation in sight, so his goal is unknown. Who knows, perhaps that was his goal all along.","No, nothing stands out"
+26,3,5,Neutral,Calm,1,9,0,2,"And there it was, while the background landscape was beautiful, the thing was ugly and old","Yes: proportions/anatomy, Yes: perspective/geometry"
+27,3,2,Very unlikely,Calm,2,10,0,3,,Yes: lighting/shadows
+28,3,1,Neutral,Calm,3,5,0,33,,Yes: texture/details
+29,3,1,Very unlikely,Calm,2,9,0,2,Looking into the distance a young someone sits atop items contemplating life,"Yes: proportions/anatomy, Yes: lighting/shadows, Yes: perspective/geometry"
+30,3,2,Very unlikely,Calm,5,4,0,0,Once upon a time a watchmen was enjoying the view,"No, nothing stands out"
+31,3,3,Likely,Calm,3,10,0,"More texture, better composition, more interesting colouring","Fidel wanted to revolutionise his country with machines of great power - machines that could shape the landscape and thus, history of the country.","Yes: lighting/shadows, Yes: texture/details, Yes: perspective/geometry"
+32,3,2,Likely,"Joy, Calm, Wonder",6,8,10,3,"On a warm spring day, he looked out onto the world around him. He had been left alone here, keeping watch, for several months now. Despite this, every day he woke up to new rations to feed himself, and clean water to drink. Many animals came to visit his post, some hurriedly running from something, some curious, and some indifferent. Each would get an entry, each would get logged. What for, he did not know. How much longer, he could not tell. All he knew was to keep watch. On days like this though, that was no chore. The fresh air, the sweet breeze, and the pleasant sun, made him content to be keeping watch. Maybe even, happy.","Yes: texture/details, Yes: perspective/geometry"
